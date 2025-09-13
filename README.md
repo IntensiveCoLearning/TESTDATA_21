@@ -72,8 +72,9 @@ Telegram：
 <!-- START_COMMIT_TABLE -->
 | Name | 9.12 | 9.13 | 9.14 | 9.15 | 9.16 | 9.17 | 9.18 | 9.19 |
 | ------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| [SIGNUP_AUTOMATION](https://github.com/IntensiveCoLearning/TESTDATA_21/blob/main/SIGNUP_AUTOMATION.md) |   | | | | | | | |
+| [SIGNUP_AUTOMATION](https://github.com/IntensiveCoLearning/TESTDATA_21/blob/main/SIGNUP_AUTOMATION.md) | ⭕️ |   | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
