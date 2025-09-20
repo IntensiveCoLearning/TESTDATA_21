@@ -90,14 +90,15 @@ Telegram：
 
 
 
+
 <!-- STATISTICALDATA_START -->
 ## 统计数据
 
 - 总参与人数: 1
-- 完成人数: 1
-- 完成用户: SIGNUP_AUTOMATION
+- 完成人数: 0
+- 完成用户: 
 - 全勤用户: 
-- 淘汰人数: 0
-- 淘汰率: 0.00%
-- Fork人数: 45
+- 淘汰人数: 1
+- 淘汰率: 100.00%
+- Fork人数: 0
 <!-- STATISTICALDATA_END -->
